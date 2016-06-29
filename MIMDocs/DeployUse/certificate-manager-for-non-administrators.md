@@ -101,6 +101,6 @@ Wenn ein Benutzer auf seinem Computer kein lokaler Administrator ist, kann er st
 8.  **Starten Sie die CM-App und Registrierung für eine virtuelle Smartcard.**
 
 
-<!--HONumber=May16_HO3-->
+<!---HONumber=May16_HO3-->
 
 
